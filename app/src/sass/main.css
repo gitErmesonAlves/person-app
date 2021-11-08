@@ -30,4 +30,20 @@
 .nav-item:hover {
   background-color: #9d9dff;
 }
+
+.text_btn {
+  text-decoration: none !important;
+}
+
+.btn_inicial {
+  background-color: #9d9dff !important;
+  width: 200px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.btn_inicial:hover {
+  -webkit-box-shadow: 2px 2px 5px #9d9dff !important;
+          box-shadow: 2px 2px 5px #9d9dff !important;
+}
 /*# sourceMappingURL=main.css.map */
